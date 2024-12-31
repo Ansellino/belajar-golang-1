@@ -27,3 +27,6 @@ go run namefile.go
 
 # Variable
 ![alt text](image/image7.png)
+
+# Tipe Data Variable
+![alt text](image/image8.png)
