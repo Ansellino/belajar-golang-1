@@ -36,9 +36,9 @@ go run namefile.go
 
 # Tipe Data Slice
 ![alt text](image/image10.png)
-![alt text](image/image11.png)
+![alt text](image/image11.png)\
 **Membuat Slice dari Array**
-![alt text](image/image12.png)
+![alt text](image/image12.png)\
 **Function Slice**
 ![alt text](image/image13.png)
 # Function Map
