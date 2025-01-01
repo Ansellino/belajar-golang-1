@@ -60,4 +60,10 @@ go run namefile.go
 **Named Return Values**
 ![alt text](image/image22.png)\
 **Variadic Function**
-![alt text](image/image23.png)
+![alt text](image/image23.png)\
+**Slice Parameter**
+![alt text](image/image24.png)\
+**Function Value**
+![alt text](image/image25.png)\
+**Func Type Declarations**
+![alt text](image/image26.png)
