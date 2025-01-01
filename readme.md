@@ -45,3 +45,5 @@ go run namefile.go
 ![alt text](image/image14.png)
 # Switch Expression
 ![alt text](image/image15.png)
+# Break and Continue
+![alt text](image/image16.png)
