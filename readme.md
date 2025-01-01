@@ -41,3 +41,5 @@ go run namefile.go
 ![alt text](image/image12.png)
 **Function Slice**
 ![alt text](image/image13.png)
+# Function Map
+![alt text](image/image14.png)
