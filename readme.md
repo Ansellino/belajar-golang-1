@@ -47,3 +47,9 @@ go run namefile.go
 ![alt text](image/image15.png)
 # Break and Continue
 ![alt text](image/image16.png)
+# Function
+![alt text](image/image17.png)\
+**Function Parameter**
+![alt text](image/image18.png)\
+**Function Return Value**
+![alt text](image/image19.png)
