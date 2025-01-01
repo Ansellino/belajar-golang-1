@@ -52,4 +52,12 @@ go run namefile.go
 **Function Parameter**
 ![alt text](image/image18.png)\
 **Function Return Value**
-![alt text](image/image19.png)
+![alt text](image/image19.png)\
+**Returning Multiple Values**
+![alt text](image/image20.png)\
+**Menghiraukan Return Value**
+![alt text](image/image21.png)\
+**Named Return Values**
+![alt text](image/image22.png)\
+**Variadic Function**
+![alt text](image/image23.png)
