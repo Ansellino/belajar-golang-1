@@ -78,7 +78,7 @@ go run namefile.go
 **Panic**
 ![alt text](image/image31.png)\
 **Recover**
-![alt text](image/image32.png)\
+![alt text](image/image32.png)
 # Struct
 ![alt text](image/image33.png)\
 **Data Struct**
