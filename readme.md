@@ -83,4 +83,5 @@ go run namefile.go
 ![alt text](image/image33.png)\
 **Data Struct**
 ![alt text](image/image34.png)\
-
+**struct method**
+![alt text](image/image35.png)\
