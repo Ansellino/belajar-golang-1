@@ -4,10 +4,10 @@ import "fmt"
 
 type Customer struct {
 	Name, Address string
-	Age				int
+	Age           int
 }
 
-func (customer Customer) sayHello(name string){
+func (customer Customer) sayHello(name string) {
 	fmt.Println("Hello", name, "my name is", customer.Name)
 }
 
@@ -25,13 +25,13 @@ func main() {
 	fmt.Println("Ini umur", ansel.Age)
 
 	joko := Customer{
-		Name: "Joko",
+		Name:    "Joko",
 		Address: "Indonesia",
-		Age: 30,
+		Age:     30,
 	}
 	fmt.Println(joko)
 
-	budi := Customer{"Budi","Indonesia", 30}
+	budi := Customer{"Budi", "Indonesia", 30}
 	fmt.Println(budi)
 
 	budi.sayHello("Agus")

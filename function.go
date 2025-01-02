@@ -6,6 +6,6 @@ func sayHello() {
 	fmt.Println("Hello")
 }
 
-func main(){
+func main() {
 	sayHello()
 }
