@@ -79,3 +79,8 @@ go run namefile.go
 ![alt text](image/image31.png)\
 **Recover**
 ![alt text](image/image32.png)\
+# Struct
+![alt text](image/image33.png)\
+**Data Struct**
+![alt text](image/image34.png)\
+
