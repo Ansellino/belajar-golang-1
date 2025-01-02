@@ -86,4 +86,10 @@ go run namefile.go
 **struct method**
 ![alt text](image/image35.png)
 # Interface
-![alt text](image/image36.png)
+![alt text](image/image36.png)\
+**Interface Kosong**
+![alt text](image/image37.png)\
+**Penggunaan Interface Kosong**
+![alt text](image/image38.png)\
+**Nil**
+![alt text](image/image39.png)
