@@ -66,4 +66,16 @@ go run namefile.go
 **Function Value**
 ![alt text](image/image25.png)\
 **Func Type Declarations**
-![alt text](image/image26.png)
+![alt text](image/image26.png)\
+**Anonymous Function**
+![alt text](image/image27.png)\
+**Recursive Function**
+![alt text](image/image28.png)\
+**Closure**
+![alt text](image/image29.png)\
+**Defer**
+![alt text](image/image30.png)\
+**Panic**
+![alt text](image/image31.png)\
+**Recover**
+![alt text](image/image32.png)\
